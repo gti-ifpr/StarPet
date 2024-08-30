@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945172079814",
+    "project_id": "sosanimal-4e697",
+    "storage_bucket": "sosanimal-4e697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945172079814:android:a420933b43a19f737a23c7",
+        "android_client_info": {
+          "package_name": "com.mycompany.sosanimal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzV-yFPWapD_x4sUOFFzTRPHYAtn_xjiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
