@@ -26,7 +26,7 @@ A **StarPet** é uma startup dedicada à proteção dos animais através da inov
 
 ## 🌐 Rede Social
 
-Siga-nos no Instagram: [SOS Animal 2.0](https://www.instagram.com/starpetifpr/)
+Siga-nos no Instagram: [Star Pet IFPR](https://www.instagram.com/starpetifpr/)
 
 ## :dart: Objetivo
 
@@ -108,18 +108,8 @@ Para rodar o aplicativo no emulador ou em um dispositivo físico, use o comando:
 
 ## 👥 Autores
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Lipepimenta/projetoStarPet/assets/95368421/187cc470-b471-4c81-9ff2-5febf80c0c6d" width="115" /><br>
-      <sub><b>Filipe Fávero Pimenta</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Lipepimenta/projetoStarPet/assets/95368421/3fba2efa-295c-44fd-96a8-328bd3bf36cc" width="115" /><br>
-      <sub><b>Gabriel Mendes Romanovski</b></sub>
-    </td>
-  </tr>
-</table>
+| [<img src="https://github.com/Lipepimenta/Projeto-Final/assets/95368421/187cc470-b471-4c81-9ff2-5febf80c0c6d" width=115><br><sub>Filipe Favero Pimenta</sub>](https://github.com/Lipepimenta) |  [<img src="https://avatars." width=115><br><sub>Gabriel Mendez</sub>](https://github.com/) |
+| :---: | :---: |
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
